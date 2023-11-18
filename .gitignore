@@ -1,10 +1,10 @@
-# Byte-compiled / optimized / DLL files
+ *Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
 
-# C extensions
+  C extensions
 *.so
 
 # Distribution / packaging
@@ -99,4 +99,4 @@ ENV/
 
 # IDE
 /.vscode/
-.idea/
+.idea/ 
